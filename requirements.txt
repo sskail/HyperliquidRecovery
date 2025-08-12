@@ -1,0 +1,3 @@
+hyperliquid-python-sdk
+requests
+python-dotenv
